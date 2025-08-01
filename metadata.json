@@ -1,0 +1,9 @@
+{
+  "name": "AI 行動助理 您的貼身旅遊規劃師",
+  "description": "An agentic AI assistant to help you plan your travel and life.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "prompt": ""
+}

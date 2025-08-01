@@ -1,0 +1,21 @@
+{
+  "short_name": "AI助理",
+  "name": "AI 行動助理",
+  "description": "您的貼身旅遊規劃師",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "background_color": "#f0f2f5"
+}
